@@ -24,9 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot it's mine
 
-![](./design/1634152929005.jpg)
-![](./design/1634153157951.jpg)
-
+![](./design/1634152929005.jpeg)
+![](./design/1634153157951.jpeg)
 
 ### Links
 
