@@ -34,7 +34,7 @@ body{
     overflow: hidden;
     color: var(--Verydarkdesaturatedblue);
     font-weight: 700;
-    box-shadow: 0 50px 80px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 50px 80px rgba(0, 0, 0, 0.2);
     text-align: center;
 }
 
@@ -97,7 +97,7 @@ body{
 
 @media screen and (min-width: 600px) {
     body{ 
-    background-position: top -40vh left -10vw,right -10vw bottom -50vh;
+    background-position: top -45vh left -12vw,right -10vw bottom -50vh;
     background-size: 60% 100%, 60% 100%;  
     }   
 }
